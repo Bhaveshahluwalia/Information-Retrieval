@@ -1,0 +1,10 @@
+In order to make a query to the project on terminal (Mac) you need to do following steps 
+	javac filename.java
+	java filename “query”
+
+Where filename is App
+so, 
+
+javac App.java
+java App “query”
+

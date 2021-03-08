@@ -1,0 +1,18 @@
+
+Query: General model of information retrieval systems
+OUTPUT:
+1 : information retrieval
+  Snippet: Research on information retrieval model based on ontologyAbstractAn information retrieval system not only occupies an important position in the network information platform, but also plays an importan
+2 : Genetic Algorithm
+  Snippet: Atomic and Molecular Cluster StudiesFrederico T. Silva1, Mateus X. Silva2 and Jadson C. Belchior3*1Departamento de Qumica Fundamental-CCEN, Universidade Federal de Pernambuco, Cidade Universitria, R
+3 : Genetic Algorithm
+  Snippet: A New Genetic Algorithm Approach Applied to Atomic and Molecular Cluster StudiesFrederico T. Silva1, Mateus X. Silva2 and Jadson C. Belchior3 1Departamento de Qumica Fundamental-CCEN, Universidade Fe
+4 : information retrieval
+  Snippet: Information Retrieval - an overview | ScienceDirect TopicsInformation RetrievalRelated terms:Network AdministratorAutomated MechanismDesign DocumentationOrganizational PersonnelSecurity OfficerSystem 
+5 : machine learning
+  Snippet: Machine learningFrom Wikipedia, the free encyclopediaJump to navigationJump to searchFor the journal, see Machine Learning (journal)."Statistical learning" redirects here. For statistical learning in 
+6 : database
+  Snippet: DatabaseFrom Wikipedia, the free encyclopediaJump to navigationJump to searchFor a topical guide to this subject, see Outline of databases.An SQL select statement and its result.A database is an organ
+
+Precision: 0.14285715
+Recall:0.05
